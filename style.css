@@ -1,0 +1,29 @@
+body{
+    font-family: "Inter" , sans-serif;
+}
+header{
+    background:  linear-gradient(100deg,#858d9c, #b4cddd, #858d9c);
+}
+.navbar-brand,
+.text-primary{
+    color: #120549  !important;
+}
+
+.blue-bg{
+    background-color: #5f8492;
+    color: #ffffff;
+}
+
+.btn-bg{
+    background-color: rgb(68, 68, 250);
+    color: #ffffff;
+}
+
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #201357;
+    background-color: #ffffff;
+    padding: 6px;
+}
